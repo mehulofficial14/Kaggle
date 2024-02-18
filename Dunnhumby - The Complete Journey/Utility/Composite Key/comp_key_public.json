@@ -1,0 +1,1 @@
+{"campaign_desc": "campaign", "campaign_table": "household_key + campaign", "causal_data": "product_id + store_id + week_no + mailer + display", "coupon_redempt": "coupon_upc + household_key + day + campaign", "coupon": "", "hh_demographic": "household_key", "product": "product_id", "transaction_data": "basket_id + product_id"}
